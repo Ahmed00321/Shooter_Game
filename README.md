@@ -25,3 +25,88 @@ Enhanced Graphics: Upgrade the 3D graphics for a more realistic look and feel.
 Sound Effects: Implement dynamic sound effects for an immersive audio experience.
 
 Mobile Support: Optimize the game for seamless play on mobile devices.
+
+
+_____________________________
+🎨Visuals & Art
+
+
+👤First Person Arms Model
+
+
+Includes a set of arms to be viewed up-close in first person view.
+
+
+🏃Character Animations
+
+
+Each weapon comes with its own set of unique animations, such as reloading, inspecting, and shooting.
+
+
+#Animations Included
+
+
+Reloading
+Reloading Empty
+Shooting
+Inspecting
+Running
+Holstering
+And More!
+
+_____________________________
+🔫Weapon Materials
+
+
+Includes 4+ base weapon materials!
+
+
+🖥️UI Icons & HUD
+
+
+Icons for the Weapons and a player HUD are included.
+
+
+Guns
+Crosshairs
+HUD
+
+_____________________________
+💥VFX
+
+
+Explosions, muzzle flashes, and other cool effects to play around with!
+
+
+Explosions
+Flames
+Muzzle Flash
+Smoke
+Bullet Impacts
+
+Playable Demo Map
+
+
+Ready to play out of the box!
+
+
+🕹️Functionality
+
+
+🎒Simple Inventory
+
+
+A system that allows for players to swap between the different weapons that they have on them.
+
+_____________________________
+🛢️Damageables
+
+
+Explosive Barrels
+Gas Tanks
+Targets
+
+🔧Animation Setup
+
+
+Cool Animator Controller setup!
